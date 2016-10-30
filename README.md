@@ -2,6 +2,12 @@
 
 based on https://github.com/docker-library/docs/tree/master/centos#dockerfile-for-systemd-base-image
 
+# Pull
+
+```
+docker pull kokspflanze/centos-systemd
+```
+
 # Running Container based on systemd
 
 ```
